@@ -9,8 +9,8 @@ namespace Calculator.Controllers
     [Route("api/[controller]")]
     public class CalculatorController : Controller
     {
-        // GET api/values/5/5
-        [HttpGet("{firstNumber}/{secondNumber}")]
+        // GET api/values/sum/5/5
+        [HttpGet("sum/{firstNumber}/{secondNumber}")]
         public IActionResult Sum(string firstNumber, string secondNumber)
         {
             if (Isnumeric(firstNumber) && Isnumeric(secondNumber))
@@ -19,7 +19,31 @@ namespace Calculator.Controllers
                 return Ok(sum.ToString());
             }
 
-            return BadRequest("Invalid Input"); ;
+            return BadRequest("Invalid Input");
+        }
+
+        [HttpGet("subtraction/{firstNumber}/{secondNumber}")]
+        public IActionResult Subtraction(string firstNumber,string secondNumber)
+        {
+            if (Isnumeric(firstNumber) && Isnumeric(secondNumber))
+            {
+                var sum = CovertToDecimal(firstNumber) - CovertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Invalid Input");
+        }
+
+        [HttpGet("division/{firstNumber}/{secondNumber}")]
+        public IActionResult Division(string firstNumber, string secondNumber)
+        {
+            if (Isnumeric(firstNumber) && Isnumeric(secondNumber))
+            {
+                var sum = CovertToDecimal(firstNumber) / CovertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Invalid Input");
         }
 
         private decimal CovertToDecimal(string number)
