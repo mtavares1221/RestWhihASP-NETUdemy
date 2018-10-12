@@ -1,0 +1,11 @@
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Projeto\RestWhihASP-NETUdemy\RestWhihASPNETUdemy-Calculator\RestWhihASPNETUdemyCalculator\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb
